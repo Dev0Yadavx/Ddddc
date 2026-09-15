@@ -1,0 +1,8 @@
+{
+  "name": "Remix Seal",
+  "description": "Seal video and audio downloader and media player powered by yt-dlp",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

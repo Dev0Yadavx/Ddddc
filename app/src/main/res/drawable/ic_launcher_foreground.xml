@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Circular container glow -->
+    <path
+        android:fillColor="#1500E5FF"
+        android:pathData="M54,54m-28,0a28,28 0 1,0 56,0a28,28 0 1,0 -56,0" />
+    
+    <!-- Bold Download Arrow -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M51,35h6v18h7l-10,12l-10,-12h7z" />
+
+    <!-- Tray / Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,68h34v4h-34z" />
+</vector>
